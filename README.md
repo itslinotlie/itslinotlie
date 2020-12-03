@@ -1,6 +1,16 @@
+
+
 ### Hello Hello Hello 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=itslinotlie&count_private=true&show_icons=true&theme=calm)
+My name is Michael Li, not lie, and if I'm not coding, I'll probably be catching up up on a light novel or trying something new!
+
+<p float="left">
+  <img src="https://imgur.com/OQeN3k9.png" width = 35%>
+  <img src="https://github-readme-stats.vercel.app/api?username=itslinotlie&count_private=true&show_icons=true&theme=calm">
+</p>
+
+###### Plunderer is a great manga, would defintely recommend (:
+
 
 
 
