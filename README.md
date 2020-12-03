@@ -9,7 +9,7 @@ My name is Michael Li, not lie, and if I'm not coding, I'll probably be catching
   <img src="https://github-readme-stats.vercel.app/api?username=itslinotlie&count_private=true&show_icons=true&theme=calm">
 </p>
 
-###### Plunderer is a great manga, would defintely recommend (:
+###### Plunderer is a great manga, would definitely recommend (the reference photo doesn't do it justice)
 
 
 
