@@ -2,7 +2,7 @@
 
 ### Hello Hello Hello 👋
 
-My name is Michael Li, not lie, and if I'm not coding, I'll probably be catching up up on a light novel or trying something new!
+My name is Michael Li, not lie, and if I'm not coding, I'll probably be catching up on a light novel or trying something new!
 
 <p float="left">
   <img src="https://imgur.com/OQeN3k9.png" width = 35%>
