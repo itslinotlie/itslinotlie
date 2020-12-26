@@ -4,13 +4,13 @@
 
 My name is Michael Li, not lie, and if I'm not coding, I'll probably be catching up on a light novel or trying something new!
 
-<p float="left">
-  <img src="https://imgur.com/OQeN3k9.png" width = 35%>
-  <img src="https://github-readme-stats.vercel.app/api?username=itslinotlie&count_private=true&show_icons=true&theme=calm">
-</p>
+#### Art Highlight | Plunderer
 
-###### Plunderer is a great manga, would definitely recommend (the reference photo doesn't do it justice)
+<img src="https://imgur.com/OQeN3k9.png" width="75%">
 
+Plunderer has a fascinating concept that I haven't seen elsewhere. There are plot twists after plot twists and the artwork is great. Would defintely recommend this and my reference photo doesn't do it justice (it's traced from the anime). 
+
+<img src="https://github-readme-stats.vercel.app/api?username=itslinotlie&count_private=true&show_icons=true&theme=calm">
 
 
 
