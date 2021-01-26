@@ -2,16 +2,13 @@
 
 ### Hello Hello Hello 👋
 
-My name is Michael Li, not lie, and if I'm not coding, I'll probably be catching up on a light novel or trying something new!
+I'm Michael, and I enjoy ~~debugging~~ coding—especially the opportunities that arise when you combine it with other fields. Uh, I'm not sure what else to write about (yet), so here are some of my vector imitations of my favourite light novel/manga/anime titles.
 
-#### Art Highlight | Plunderer
+<img src="https://imgur.com/xgVcBix.png" width="50%">
 
-<img src="https://imgur.com/OQeN3k9.png" width="75%">
+<img src="https://github-readme-stats.vercel.app/api?username=itslinotlie&count_private=true&show_icons=true&theme=nord">
 
-Plunderer has a fascinating concept that I haven't seen elsewhere. There are plot twists after plot twists and the artwork is great. Would defintely recommend this and my reference photo doesn't do it justice (it's traced from the anime). 
-
-<img src="https://github-readme-stats.vercel.app/api?username=itslinotlie&count_private=true&show_icons=true&theme=calm">
-
+###### These cool widgets are [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
 
 
 <!--
