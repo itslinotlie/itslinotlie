@@ -4,7 +4,8 @@
 
 I'm Michael, and I enjoy ~~debugging~~ coding—especially the opportunities that arise when you combine it with other fields. Uh, I'm not sure what else to write about (yet), so here are some of my vector imitations of my favourite light novel/manga/anime titles.
 
-<img src="https://imgur.com/xgVcBix.png" width="50%">
+<img src="https://imgur.com/xgVcBix.png" width="45%"> <img src="https://imgur.com/bSuyz8w.png" width="45%">
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=itslinotlie&count_private=true&show_icons=true&theme=nord">
 
