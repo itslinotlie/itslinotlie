@@ -6,6 +6,8 @@ I'm Michael, and I enjoy ~~debugging~~ coding—especially the opportunities tha
 
 <img src="https://imgur.com/xgVcBix.png" width="45%"> <img src="https://imgur.com/bSuyz8w.png" width="45%">
 
+###### Starting from the left-panel, top left image down, the drawings are based off of: Plunderer, Solo Leveling, The King's Avatar, Eleceed, and emotes from AdmiralBahroo
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=itslinotlie&count_private=true&show_icons=true&theme=nord">
 
