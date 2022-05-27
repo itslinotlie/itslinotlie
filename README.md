@@ -8,10 +8,11 @@ I'm Michael, and I enjoy ~~debugging~~ coding—especially the opportunities tha
 
 ###### Starting from the left-panel, top left image down, the drawings are based off of: Plunderer, Solo Leveling, The King's Avatar, Eleceed, and emotes from AdmiralBahroo
 
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=itslinotlie&count_private=true&show_icons=true&theme=nord">
 
 ###### These cool widgets are [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
+-->
 
 
 <!--
