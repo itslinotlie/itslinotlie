@@ -1,31 +1,11 @@
+### Sup sup :cowboy_hat_face:
 
-
-### Hello Hello Hello 👋
-
-I'm Michael, and I enjoy ~~debugging~~ coding—especially the opportunities that arise when you combine it with other fields. Uh, I'm not sure what else to write about (yet), so here are some of my vector imitations of my favourite light novel/manga/anime titles.
+I'm Michael and I'm also:
+- :books: studying CS at the University of Waterloo, class of 2026
+  - currently in :japan: for an exchange
+- :building_construction: one of the founding devs @ [tftacademy.com](https://tftacademy.com/)
+- :clock5: probably out bouldering, reading, or playing TFT
 
 <img src="https://imgur.com/xgVcBix.png" width="45%"> <img src="https://imgur.com/bSuyz8w.png" width="45%">
 
-###### Starting from the left-panel, top left image down, the drawings are based off of: Plunderer, Solo Leveling, The King's Avatar, Eleceed, and emotes from AdmiralBahroo
-
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=itslinotlie&count_private=true&show_icons=true&theme=nord">
-
-###### These cool widgets are [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
--->
-
-
-<!--
-**itslinotlie/itslinotlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### something something images keep retention, so here are my favourite titles starting from the top left going counter clockwise: [Plunderer](https://myanimelist.net/manga/81681/Plunderer), [Solo Leveling](https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken), [The King's Avatar](https://myanimelist.net/manga/118730/Quanzhi_Gaoshou?q=kings%20avatar&cat=manga), [Eleceed](https://myanimelist.net/manga/147171/Eleceed), and some emotes from AdmiralBahroo
